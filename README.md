@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https:github.com/legendx22"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a></p>
+<a href="https:github.com/nikhil34823482"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a></p>
 
 <p align="center"><b>Shark
 <p align="center">
@@ -27,7 +27,7 @@ $ termux-setup-storage
 
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/bhikandeshmukh/shark
+$ git clone https://github.com/nikhil34823482/shark
 
 $ ls
 
@@ -47,7 +47,7 @@ $ shark
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/bhikandeshmukh/shark && cd shark && chmod +x * && ./setup
+$ git clone https://github.com/nikhil34823482/shark && cd shark && chmod +x * && ./setup
 
 $ shark
 ```
